@@ -6,6 +6,7 @@ public class createContactTest {
 		System.out.println("create contact test");
 		System.out.println("updated ContactTest");
 		System.out.println("Hi master branch");
+		System.out.println("updated in git");
 
 	}
 
